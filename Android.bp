@@ -121,6 +121,7 @@ android_library {
         "androidx.cardview_cardview",
         "iconloader_base",
         "libGoogleFeed",
+        "SettingsLib",
     ],
     manifest: "AndroidManifest-common.xml",
     sdk_version: "current",
