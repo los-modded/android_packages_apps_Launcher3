@@ -24,7 +24,6 @@
 
      <permission
         android:name="${packageName}.permission.HOTSEAT_EDU"
-        android:permissionGroup="android.permission-group.SYSTEM_TOOLS"
         android:protectionLevel="signatureOrSystem" />
 
     <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
